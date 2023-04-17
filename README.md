@@ -1,3 +1,3 @@
 # harness-trigger-test
 
-Change 7 - Testing PR merge approval
+Change 8 - Testing PR merge approval
