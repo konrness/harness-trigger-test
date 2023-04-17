@@ -1,3 +1,3 @@
 # harness-trigger-test
 
-Change 6 - Commit to "default_branch"
+Change 7 - Testing PR merge approval
